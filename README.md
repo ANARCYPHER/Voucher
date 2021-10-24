@@ -40,3 +40,6 @@ Create the local python environment:
     $ virtualenv venv --python=python3
     $ source venv/bin/activate
     $ pip install -r fruit_machine/requirements.txt
+    
+ ##Caesar Versatti   
+    
